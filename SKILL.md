@@ -12,7 +12,7 @@ This skill enables Gemini CLI to help users integrate the Gemini 3 API into Goog
 1. **Option A: Add as Library**
    - In your GAS project, click **Libraries +**.
    - Enter Script ID: `1Afd9nLsjiIC_B-OKXdmYM9fFzBUM2YqkLuISVE7z7ABuHh2GxpBFIvdw`.
-   - Select the latest version and identifier `GeminiApp`.
+   - Select version 2 and identifier `GeminiApp`.
 
 2. **API Key Setup**
    - Set your API key in **Project Settings > Script Properties** with the name `GEMINI_API_KEY`.
